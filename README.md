@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6NmppZ210cG54ZDlxejNpa2M4cWFrcjNoOTh4YWV1ZTJuampvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bKTrydke0T7bO/giphy.gif" height="200" />
 </p>
 
 ### Bem vindo ao meu Git! 👩‍💻💻
