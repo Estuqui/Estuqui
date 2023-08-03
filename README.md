@@ -4,12 +4,12 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6NmppZ210cG54ZDlxejNpa2M4cWFrcjNoOTh4YWV1ZTJuampvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bKTrydke0T7bO/giphy.gif" height="200" />
 </p>
 
-### Bem vindo ao meu Git! 👩‍💻💻
+### Bem vindo ao meu Git! 👩🏻‍💻💻
 
 - 👩🏻‍💻 Python & PHP Developer.
-- 👩🏻‍ Estudando Python, PHP e CSS.
 - 👩🏻‍🔬 Bacharel em Engenharia Química.
 - 👩🏻‍🎓 Estudante de Desenvolvimento Back-End.
+- 💻 Estudandando Python, PHP, C, HTML5 e CSS.
 
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
