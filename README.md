@@ -7,7 +7,7 @@
 ### Bem vindo ao meu Git! 👩🏻‍💻💻
 
 - 👩🏻‍💻 Python & PHP Developer.
-- 👩🏻‍🔬 Bacharel em Engenharia Química.
+- 👩🏻‍🔬 Chemical Engineer.
 - 👩🏻‍🎓 Estudante de Desenvolvimento Back-End.
 - 💻 Estudandando atualmente: C e C#.
 
